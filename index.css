@@ -1,0 +1,68 @@
+.col-lg-12{
+	background:url(6.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+	color: orange;
+	font-weight: 300;
+	font-size: 2em;
+}
+.col-lg-5{
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+.col-lg-7{
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+.col-lg-2 a{
+	color: black;
+	background-color: 
+}
+body{
+	font-family: Lato;
+}
+.title{
+	color: orange;
+	font-family: Georgia;
+	font-weight: 350; 
+	font-size: 2em;
+}
+.color a{
+	color: orange;
+}
+.navbar a{
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+/*navbarlinks on mouse-over*/
+.navbar a:hover{
+	background-color: #000;
+}
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+.navbar{
+	background-color: black;
+	color: white;
+}
+html{
+	height: 100%;
+}
+
+#content{
+	text-align: right;
+	padding-top: 25%;
+}
